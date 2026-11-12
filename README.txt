@@ -1,0 +1,1 @@
+مساعد الذكي AI - الإصدار الخامس\n\nالموقع: افتح web/index.html عبر استضافة HTTPS لتعمل ميزات PWA.\nAndroid: افتح مجلد android في Android Studio وابنِ APK. يتطلب ذلك Android SDK وGradle.\n\nإدارة روابط العمولة تضيف وسوم UTM محلياً؛ لا يوجد عدّ نقرات أو نشر تلقائي أو اتصال API في هذه النسخة.\n
